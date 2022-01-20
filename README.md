@@ -13,8 +13,15 @@
 
 ## <a name="usage">Projede Kullanılan Teknolojiler</a>
 
-- .Net 6
-- TODO:...
+- .Net Core 6
+- Entity Framework Core 6
+- Swagger
+- MediatR
+- CQRS
+- API Versioning
+- Exception Handling
+- Fluent Validation
+- Mapster
 
 ## <a name="what-is-onion-arch">Onion Architecture Nedir?</a>
 
